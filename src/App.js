@@ -5,7 +5,7 @@ import About from './components/About';
 function App() {
   return (
     <>
-    <MyParent></MyParent>
+    {/* <MyParent></MyParent> */}
     <About></About>
     </>
   );
